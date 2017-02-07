@@ -14,5 +14,10 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/sfirat/ljs/issues"
+  },
+  "dependencies": {
+    "ejs": "~2.5.5",
+    "d3": "~4.5.0",
+    "bootstrap3": "~3.3.5"
   }
 }
